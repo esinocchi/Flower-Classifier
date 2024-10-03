@@ -20,7 +20,6 @@ The dataset used in this project is the **Iris dataset**, a well-known dataset i
 
 1. **Data Preprocessing**:
    - The dataset is loaded and visualized to understand its structure.
-   - Data is cleaned, and any necessary transformations (such as encoding labels) are performed.
 
 2. **Model Training**:
    - A logistic regression model is trained on the dataset using the petal and sepal dimensions as features.
